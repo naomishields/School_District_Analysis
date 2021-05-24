@@ -9,13 +9,13 @@
 
 ### How is the district summary affected?
   After cleaning the data for the challenge, there are some differences in the district summaries from the challenge and from the module. As can be seen below, the average math score, percentage passing math, percentage passing reading, and the percentage overall passing are all lower for the challenge summary.
-  ![Module District Summary](https://github.com/naomishields/kickstarter-analysis/blob/main/images/Year%20function.png) 
-  ![Challenge District Summary](https://github.com/naomishields/kickstarter-analysis/blob/main/images/Year%20function.png) 
+  ![Module District Summary](https://github.com/naomishields/School_District_Analysis/blob/main/Resources/module_district.png) 
+  ![Challenge District Summary](https://github.com/naomishields/School_District_Analysis/blob/main/Resources/challenge_district.png) 
  
  ### How is the school summary affected?
   When comparing the school summary for Thomas High School from the module and form the challenge there are some differences as well. The average math score and average reading score are both lower for the challenge. Also, The percentage passing math, the percentage passing reading, and the percentage overall passing are all significantly lower for the challenge school summary. The percentages for the module were all in the 90's whereas for the challenege they were all in the 60's. These differences can be seen below.
-  ![Module School Summary](https://github.com/naomishields/kickstarter-analysis/blob/main/images/Year%20function.png) 
-  ![Challenge School Summary](https://github.com/naomishields/kickstarter-analysis/blob/main/images/Year%20function.png) 
+  ![Module School Summary](https://github.com/naomishields/School_District_Analysis/blob/main/Resources/module_school.png) 
+  ![Challenge School Summary](https://github.com/naomishields/School_District_Analysis/blob/main/Resources/challenge_school.png) 
   
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   As discussed above above, the removal of the scores affected the school summary of Thomas High School greatly. However, when compared to other school's there perfomance is not much different.
