@@ -21,16 +21,12 @@
   As discussed above above, the removal of the scores affected the school summary of Thomas High School greatly. However, when compared to other school's there perfomance is not much different.
   
 ### How does replacing the ninth-grade scores affect the following:
-  1. Math and reading scores by grade
     * The Math scores for ninth graders at Thomas High School were replaced by NaN
     * The reading scores were also replaces by NaN
-  3. Scores by school spending
     * Thomas High School remained in the $630-$644 bin
     * There were no significant changes made to the scores by school spending
-  5. Scores by school size
     * Thomas High School remained a Medium sized school
     * There were no significant changes made to the scores by school size
-  7. Scores by school type
     * There were no significant changes made when looking at the school type
 
 ## Summary 
